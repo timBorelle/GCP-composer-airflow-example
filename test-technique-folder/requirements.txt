@@ -1,0 +1,7 @@
+datasets
+pandas
+scikit-learn
+#sklearn
+urllib3==1.26.4
+virtualenv
+
